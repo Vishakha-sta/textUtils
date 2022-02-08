@@ -2,7 +2,7 @@
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishakha_textUtils.github.io",
+  "homepage": "https://Vishakha_sta.github.io/textUtils",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
